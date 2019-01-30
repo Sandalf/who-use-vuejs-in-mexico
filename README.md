@@ -1,2 +1,14 @@
-# who-use-vuejs-in-mexico
+<p align="center"><a href="https://vuejs.org" target="_blank"><img width="100"src="https://vuejs.org/images/logo.png"></a></p>
+
+# Who uses Vue.js in Mexico?
 The list of companies who use Vue.js in Mexico
+
+## Companies
+
+Name | Website | What we do with Vue.js
+------------ | ------- | -------
+[Example](http://example.com) | http://example.com | E-commerce Site
+[Zubut](https://www.zubut.com/) | https://www.zubut.com/ | Last mile delivery service.
+
+## Inspired by
+https://github.com/vuejs-jp/who-use-vuejs-in-japan/
