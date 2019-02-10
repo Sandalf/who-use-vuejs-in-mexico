@@ -7,8 +7,9 @@ The list of companies who use Vue.js in Mexico
 
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
-[Example](http://example.com) | http://example.com | E-commerce Site
+[Example](http://example.com) | http://example.com | E-commerce Site.
 [Zubut](https://www.zubut.com/) | https://www.zubut.com/ | Last mile delivery service.
+[Cumplo](https://www.cumplo.mx/) | https://www.cumplo.mx/ | Financing for buesinesses.
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan/
