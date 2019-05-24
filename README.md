@@ -12,6 +12,7 @@ Name | Website | What we do with Vue.js
 [Cumplo](https://www.cumplo.mx/) | https://www.cumplo.mx/ | Financing for businesses.
 [Care Up](https://careup.mx/) | https://careup.mx/ | Client data management tool for dentists.
 [Dinamo](https://dinamo.mx/) | https://dinamo.mx/ | Creative agency.
+[Guds](https://www.guds.shop/) | https://www.guds.shop/ | Compare prices across supermarketsacr.
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan/
